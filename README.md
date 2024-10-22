@@ -38,6 +38,13 @@ yarn dev
 bun run dev
 ```
 
+## Storybook
+Start Storybook on `http://localhost:6006`:
+
+```bash
+yarn storybook
+```
+
 ## Production
 
 Build the application for production:
